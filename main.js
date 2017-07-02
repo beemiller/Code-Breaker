@@ -1,9 +1,9 @@
 function init(){
   alert("Page is loaded");
-  codeGenerator()
+  //codeGenerator()
 }
 
-function codeGeneratort(){
+/*function codeGeneratort(){
 code = Math.floor(
 Math.rand()*10000+1)
 documner.getElementBuyId("answer").innerHTML=code;
